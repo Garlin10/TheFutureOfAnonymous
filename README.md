@@ -1,9 +1,9 @@
 **Házi feladat**
 
-Csapatnév:
+Csapatnév:TheFutureOfAnonymous
 
 Csapattagok Neptun kóddal:
-- Minta Mókus (ABC123)
+- Gál Gyula (AQBQED)
 - Minta Mókus (ABC123)
 - Minta Mókus (ABC123)
 
@@ -16,7 +16,7 @@ Bemutató videó URL:
 Alap feladatok (maximális kapható pontokkal):
 - [ ] 7p: Yocto projekt alapokon készített szerver vagy kliens (házi feladatonként egyszer)
 - [ ] 5p: Beágyazott Linux rendszerben (de nem Yocto alapokon) készített szerver vagy kliens (feladatonként egyszer).
-- [ ] 7p: QML alapú grafikus felület (benne legalább egy grafikon vagy egyéb rajzolás, egy lista, valamint menü)
+- [x] 7p: QML alapú grafikus felület (benne legalább egy grafikon vagy egyéb rajzolás, egy lista, valamint menü)
 - [ ] 7p: REST API (benne új adat létrehozása, lekérdezés, adat módosítása, logikusan felépített URL-ekkel)
 - [ ] 8p: Több felhasználó, az authentikáció és különböző szerepkörök támogatása.
 - [ ] 7p: Linux alatt saját, jól átgondolt kommunikációs protokoll implementálása.
@@ -28,7 +28,7 @@ Alap feladatok (maximális kapható pontokkal):
 - [ ] 3p: Az alapértelmezettől eltérő tranzakció kezelés.
 - [ ] 5p: Megfelelő biztonsági óvintézkedések (authorizáció, SQL injection kivédése, szerver oldali validáció, biztonságos jelszó tárolás stb.)
 - [ ] 2p: Unit tesztek használata (Jelentős lefedettség esetén további bónusz pontokat ér.)
-- [ ] 3p: Qt alatt signals and slots mechanizmus használata.
+- [x] 3p: Qt alatt signals and slots mechanizmus használata.
 - [ ] 3p: Logolási mechanizmus használata loglevel támogatással.
 
 Bónusz feladatok, melyek plusz utánajárást is igényelhetnek (maximális kapható pontokkal, csak ha az alap feladatokból időben leadva legalább 30 pont összegyűlt):
