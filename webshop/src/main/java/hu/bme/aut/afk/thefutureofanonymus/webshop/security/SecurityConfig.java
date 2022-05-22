@@ -14,7 +14,7 @@ import org.springframework.security.crypto.password.PasswordEncoder;
 @EnableWebSecurity
 public class SecurityConfig extends WebSecurityConfigurerAdapter {
 
-    //@Autowired
+    @Autowired
     private WebshopUserDetailsService userDetailsService;
 
     @Override
@@ -22,17 +22,17 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter {
         http
                 .csrf().disable()
                 .authorizeRequests()
-                        .anyRequest().authenticated()
-                        .and()
+                .anyRequest().authenticated()
+                .and()
                 .formLogin()
-                        .loginPage("/login")
-                        .permitAll()
-                        .and()
+                .loginPage("/login")
+                .permitAll()
+                .and()
                 .logout()
-                        .permitAll();
+                .permitAll();
     }
 
-    //Constructor-Based Dependency Injection
+
     @Bean
     public PasswordEncoder encoder() {
         return new BCryptPasswordEncoder();

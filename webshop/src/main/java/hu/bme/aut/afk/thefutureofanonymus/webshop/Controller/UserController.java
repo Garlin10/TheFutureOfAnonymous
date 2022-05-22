@@ -16,7 +16,7 @@ public class UserController {
 
     @GetMapping("/login")
     public String loginUser(){
-        return "ALF LOGIN";
+        return "ALF BOIIIII";
     }
 
 

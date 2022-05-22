@@ -20,6 +20,7 @@ public class WebshopApplication {
 
 	Logger logger = LoggerFactory.getLogger(WebshopApplication.class);
 
+	//Dependency-Injection
 	@Autowired
 	private SecurityConfig securityConfig;
 
