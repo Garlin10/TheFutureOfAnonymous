@@ -5,10 +5,7 @@ import lombok.Builder;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
-import javax.persistence.ElementCollection;
-import javax.persistence.Entity;
-import javax.persistence.FetchType;
-import javax.persistence.Id;
+import javax.persistence.*;
 import java.util.List;
 
 @Entity
@@ -22,6 +19,7 @@ public class User {
 	public static final String  ROLE_USER = "ROLE_USER";*/
 
 	@Id
+	@GeneratedValue
 	private String name;
 	private String password;
 	//private boolean enabled; //TODO: miez?
