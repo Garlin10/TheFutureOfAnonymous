@@ -4,8 +4,8 @@ Csapatnév:TheFutureOfAnonymous
 
 Csapattagok Neptun kóddal:
 - Gál Gyula (AQBQED)
-- Minta Mókus (ABC123)
-- Minta Mókus (ABC123)
+- Lipták-Lukácsik Kolos (D68PQ6)
+- Varga Balázs (E90HGZ)
 
 Bemutató videó URL: 
 (Ugye minden olyan dolog szerepel benne a kiírásnak megfelelően, amire pontot szeretnétek kapni?)
@@ -18,18 +18,18 @@ Alap feladatok (maximális kapható pontokkal):
 - [ ] 5p: Beágyazott Linux rendszerben (de nem Yocto alapokon) készített szerver vagy kliens (feladatonként egyszer).
 - [x] 7p: QML alapú grafikus felület (benne legalább egy grafikon vagy egyéb rajzolás, egy lista, valamint menü)
 - [ ] 7p: REST API (benne új adat létrehozása, lekérdezés, adat módosítása, logikusan felépített URL-ekkel)
-- [ ] 8p: Több felhasználó, az authentikáció és különböző szerepkörök támogatása.
+- [x] 8p: Több felhasználó, az authentikáció és különböző szerepkörök támogatása.
 - [ ] 7p: Linux alatt saját, jól átgondolt kommunikációs protokoll implementálása.
 - [ ] 15p: Linux alatt eszközvezérlő készítése
 - [ ] 5p: Aszinkron üzenetsorral kommunikáló szerverek (vagyis több backend komponens van).
-- [ ] 5p: Java Persistence API használata, legalább 5 osztállyal.
-- [ ] 2p: Spring Data használata
-- [ ] 3p: Függőséginjektálás Spring alapokon
-- [ ] 3p: Az alapértelmezettől eltérő tranzakció kezelés.
-- [ ] 5p: Megfelelő biztonsági óvintézkedések (authorizáció, SQL injection kivédése, szerver oldali validáció, biztonságos jelszó tárolás stb.)
-- [ ] 2p: Unit tesztek használata (Jelentős lefedettség esetén további bónusz pontokat ér.)
+- [x] 5p: Java Persistence API használata, legalább 5 osztállyal.
+- [x] 2p: Spring Data használata
+- [x] 3p: Függőséginjektálás Spring alapokon
+- [x] 3p: Az alapértelmezettől eltérő tranzakció kezelés.
+- [x] 5p: Megfelelő biztonsági óvintézkedések (authorizáció, SQL injection kivédése, szerver oldali validáció, biztonságos jelszó tárolás stb.)
+- [x] 2p: Unit tesztek használata (Jelentős lefedettség esetén további bónusz pontokat ér.)
 - [x] 3p: Qt alatt signals and slots mechanizmus használata.
-- [ ] 3p: Logolási mechanizmus használata loglevel támogatással.
+- [x] 3p: Logolási mechanizmus használata loglevel támogatással.
 
 Bónusz feladatok, melyek plusz utánajárást is igényelhetnek (maximális kapható pontokkal, csak ha az alap feladatokból időben leadva legalább 30 pont összegyűlt):
 - [ ] 5p: Linux alatt telepítő csomag készítése
