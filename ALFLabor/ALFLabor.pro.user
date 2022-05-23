@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<!-- Written by QtCreator 7.0.1, 2022-05-22T13:43:56. -->
+<!-- Written by QtCreator 7.0.1, 2022-05-23T10:30:54. -->
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
@@ -240,8 +240,9 @@
     <valuelist type="QVariantList" key="CustomOutputParsers"/>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:E:/BME/8.évad/ALF_HAZI/ALFLabor/ALFLabor.pro</value>
-    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">E:/BME/8.évad/ALF_HAZI/ALFLabor/ALFLabor.pro</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">ALFLabor2</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:E:/BME/8.évad/TheFutureOfAnonymous/ALFLabor/ALFLabor.pro</value>
+    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">E:/BME/8.évad/TheFutureOfAnonymous/ALFLabor/ALFLabor.pro</value>
     <value type="bool" key="RunConfiguration.UseCppDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
     <value type="bool" key="RunConfiguration.UseLibrarySearchPath">true</value>

@@ -29,7 +29,7 @@ Item {
         id: title4
         x: 148
         y: 0
-        text: qsTr("Két Medve 1")
+        text: qsTr("Két Medve1")
         anchors.topMargin: 13
         font.pointSize: 55
         anchors.leftMargin: -273
