@@ -5,7 +5,7 @@ Csapatnév:TheFutureOfAnonymous
 Csapattagok Neptun kóddal:
 - Gál Gyula (AQBQED)
 - Lipták-Lukácsik Kolos (D68PQ6)
-- Varga Balázs (E90HGZ)
+- Varga Balázs Vince (E90HGZ)
 
 Bemutató videó URL: 
 (Ugye minden olyan dolog szerepel benne a kiírásnak megfelelően, amire pontot szeretnétek kapni?)
