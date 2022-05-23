@@ -7,7 +7,8 @@ Csapattagok Neptun kóddal:
 - Lipták-Lukácsik Kolos (D68PQ6)
 - Varga Balázs Vince (E90HGZ)
 
-Bemutató videó URL: 
+Bemutató videó URL:
+https://www.youtube.com/watch?v=aYrydsvdusw 
 (Ugye minden olyan dolog szerepel benne a kiírásnak megfelelően, amire pontot szeretnétek kapni?)
 
 **Pontot érő technológiák**
