@@ -5,6 +5,8 @@ import hu.bme.aut.afk.thefutureofanonymus.webshop.Model.Data.SwordRepository;
 import hu.bme.aut.afk.thefutureofanonymus.webshop.Model.Entities.Sword;
 import hu.bme.aut.afk.thefutureofanonymus.webshop.Service.SwordService;
 
+import java.util.List;
+
 public class SwordServiceImplementation implements SwordService {
 
     private SwordRepository swordRepository;
@@ -16,5 +18,10 @@ public class SwordServiceImplementation implements SwordService {
                 .lenght(swordDTO.lenght)
                 .build();
         swordRepository.save(newSword);
+    }
+
+    @Override
+    public List<Sword> getSwords() {
+        return swordRepository.findAll().stream().toList();
     }
 }

@@ -24,7 +24,6 @@ public class User {
 	@Id
 	private String name;
 	private String password;
-	//private boolean enabled; //TODO: miez?
 	private UserRoles role;
 
 
@@ -47,12 +46,8 @@ public class User {
 		this.password = password;
 	}
 
-	//public boolean isEnabled() { return enabled; }
 
-
-	//public void setEnabled(boolean enabled) {this.enabled = enabled;}
-
-	//public List<String> getRoles() {return roles;}
+	public List<String> getRoles() {return roles;}
 
 	public UserRoles getRole() { return role; }
 

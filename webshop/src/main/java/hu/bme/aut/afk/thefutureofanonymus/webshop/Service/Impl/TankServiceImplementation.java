@@ -5,6 +5,8 @@ import hu.bme.aut.afk.thefutureofanonymus.webshop.Model.Data.TankRepository;
 import hu.bme.aut.afk.thefutureofanonymus.webshop.Model.Entities.Tank;
 import hu.bme.aut.afk.thefutureofanonymus.webshop.Service.TankService;
 
+import java.util.List;
+
 public class TankServiceImplementation implements TankService {
 
     private TankRepository tankRepository;
@@ -16,5 +18,10 @@ public class TankServiceImplementation implements TankService {
                 .gunCaliber(tankDTO.gunCaliber)
                 .build();
         tankRepository.save(newTank);
+    }
+
+    @Override
+    public List<Tank> getTanks() {
+        return tankRepository.findAll().stream().toList();
     }
 }

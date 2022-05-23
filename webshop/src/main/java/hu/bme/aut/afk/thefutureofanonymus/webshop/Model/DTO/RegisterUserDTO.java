@@ -17,4 +17,5 @@ public class RegisterUserDTO {
     @NotEmpty
     @NotNull
     public UserRoles userRole;
+
 }
