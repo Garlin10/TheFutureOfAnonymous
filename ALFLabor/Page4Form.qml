@@ -29,7 +29,7 @@ Item {
         id: title4
         x: 148
         y: 0
-        text: qsTr("Két Medve4")
+        text: qsTr("Két Medve 1")
         anchors.topMargin: 13
         font.pointSize: 55
         anchors.leftMargin: -273
@@ -39,7 +39,7 @@ Item {
         id: subtitle4
         x: 235
         y: 113
-        text: qsTr("Homer J.")
+        text: qsTr("Gál Gy.")
         anchors.top: title.bottom
         font.pointSize: 33
         anchors.leftMargin: -186

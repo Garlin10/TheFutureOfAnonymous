@@ -28,7 +28,7 @@ Item {
         id: title
         x: 148
         y: 0
-        text: qsTr("Két Medve5")
+        text: qsTr("Két Medve 2")
         anchors.topMargin: 13
         font.pointSize: 55
         anchors.leftMargin: -273
@@ -37,7 +37,7 @@ Item {
     Label {
         id: subtitle
         x: 235
-        text: qsTr("Homer J.")
+        text: qsTr("Varga B.")
         anchors.top: title.bottom
         font.pointSize: 33
         anchors.leftMargin: -186
